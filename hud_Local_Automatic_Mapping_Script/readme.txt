@@ -1,4 +1,5 @@
 自动换图脚本 hud Local automatic mapping script
+http://chdong.top/
 
 /*	自动恢复幸存者Hp 
 *	开启指令：!gongneng 2
